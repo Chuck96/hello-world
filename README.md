@@ -1,2 +1,3 @@
 # hello-world
-A starter project, testing out GitHub.
+
+Hello, GitHub looks interesting.
